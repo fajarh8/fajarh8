@@ -4,21 +4,12 @@
 
 <br/>
 
-<!-- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,html,css,bootstrap,figma,js,php,mysql"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,nginx,postman,docker,tauri,ubuntu,gcp,arduino"/>
-  </a>
-</p> -->
-
 <div align="center">
-	<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/>
+	<img width="30" src="https://skillicons.dev/icons?i=git" alt="Git" title="Git"/>
+	<img width="30" src="https://skillicons.dev/icons?i=github" alt="Github" title="Github"/>
 	<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/>
   <img width="30" src="https://skillicons.dev/icons?i=tauri" alt="Tauri" title="Tauri"/>
+  <img width="30" src="https://skillicons.dev/icons?i=rust" alt="Rust" title="Rust"/>
 	<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/>
 	<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/>
 	<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap"/>
@@ -32,6 +23,7 @@
 	<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" alt="GCP" title="GCP"/>
 	<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="Ubuntu" title="Ubuntu"/>
 	<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png" alt="Arduino" title="Arduino"/>
+	<img width="30" src="https://avatars.githubusercontent.com/u/9460735" alt="Espressif" title="Espressif"/>
 	<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mqtt.png" alt="MQTT" title="MQTT"/>
 	<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mosquitto.png" alt="Mosquitto" title="Mosquitto"/>
 </div>
@@ -39,8 +31,18 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fajarh8&layout=donut&theme=radical&repo=github-readme-stats" />
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=fajarh8">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fajarh8&layout=donut&theme=github_dark&repo=github-readme-stats" />
   </a>
 </div>
-<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fajarh8&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<br/>
+
+<div align="center">
+	<a href="https://github.com/fajarh8/smart-kos">
+	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fajarh8&repo=smart-kos&theme=github_dark" />
+	</a>
+	<a href="https://github.com/fajarh8/OcuSafe">
+	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fajarh8&repo=OcuSafe&theme=github_dark" />
+	</a>
+</div>
