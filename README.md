@@ -1,6 +1,6 @@
-# Ied Fajar Heryan
+<h1 align="center">Ied Fajar Heryan</h1>
 
-<h3>Full Stack Web Developer | Internet of Things (IoT)</h3>
+<h3 align="center">Full-Stack Web Developer | Internet of Things (IoT)</h3>
 
 <br/>
 
