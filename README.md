@@ -1,4 +1,4 @@
-<h1 align="center">Ied Fajar Heryan</h1>
+<h1 align="center">:wave: :adult: Ied Fajar Heryan</h1>
 <h3 align="center">Full-Stack Web Developer | Internet of Things (IoT)</h3>
 
 <div align="center">
@@ -33,7 +33,7 @@
 </div>
 
 <h1 align="center"></h1>
-<h3 align="center">Pinned Repositories<h3/>
+<h3 align="center">Pinned Repositories :pushpin:<h3/>
 <div align="center">
 	<a href="https://github.com/fajarh8/smart-kos">
 	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fajarh8&repo=smart-kos&theme=github_dark" />
@@ -44,7 +44,7 @@
 </div>
 
 <h1 align="center"></h1>
-<h3 align="center">Contact Me<h3/>
+<h3 align="center">Contact Me :telephone_receiver:<h3/>
 <div align="center">
   <a href="https://github.com/fajarh8"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/iedfajarheryan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
