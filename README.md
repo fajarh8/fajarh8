@@ -27,8 +27,8 @@
 
 <br/>
 <div align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=fajarh8">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fajarh8&layout=donut&theme=github_dark&repo=github-readme-stats" />
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=fajarh8&layout=compact&hide=css,html">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fajarh8&layout=compact&theme=github_dark&hide=css,html&repo=github-readme-stats" />
   </a>
 </div>
 
@@ -46,7 +46,7 @@
 <h1 align="center"></h1>
 <h3 align="center">Contact Me :telephone_receiver:<h3/>
 <div align="center">
-  <a href="https://github.com/fajarh8"><img src="https://img.shields.io/badge/fajarh8-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<!--   <a href="https://github.com/fajarh8"><img src="https://img.shields.io/badge/fajarh8-100000?style=for-the-badge&logo=github&logoColor=white" /></a> -->
   <a href="https://www.linkedin.com/in/iedfajarheryan"><img src="https://img.shields.io/badge/Ied Fajar Heryan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:fajar0heryan@gmail.com"><img src="https://img.shields.io/badge/fajar0heryan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://instagram.com/fajar.h8"><img src="https://img.shields.io/badge/@fajar.h8-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
