@@ -1,6 +1,5 @@
 <h1 align="center">:wave: :adult: Ied Fajar Heryan</h1>
 <h3 align="center">Full-Stack Web Developer | Internet of Things (IoT)</h3>
-
 <div align="center">
 	<img width="30px" src="https://skillicons.dev/icons?i=git" alt="Git" title="Git"/>
 <!-- 	<img width="30px" src="https://skillicons.dev/icons?i=github" alt="Github" title="Github"/> -->
@@ -24,6 +23,16 @@
 	<img width="30px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mqtt.png" alt="MQTT" title="MQTT"/>
 <!-- 	<img width="30px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mosquitto.png" alt="Mosquitto" title="Mosquitto"/> -->
 </div>
+<br/>
+<p>Hi, I'm Fajar 👋
+
+I'm a passionate Web Developer focused on building reliable and scalable applications.  
+Currently sharpening my skills in **Laravel** and **MySQL**.  
+
+🌟 Areas of interest: Backend API Development, Frontend UI Building, Clean Code Practices.  
+🚀 Open to collaboration, freelance projects, and exciting job opportunities.
+
+Let's build something amazing together!</p>
 
 <br/>
 <div align="center">
